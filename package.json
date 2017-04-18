@@ -1,0 +1,11 @@
+{
+  "name": "autotooltip",
+  "version": "0.1.0",
+  "description": "Automatically add tooltips in react apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florian Bienefelt",
+  "license": "ISC"
+}
