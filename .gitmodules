@@ -1,0 +1,3 @@
+[submodule "react-string-replace"]
+	path = react-string-replace
+	url = https://github.com/Floriferous/react-string-replace.git
